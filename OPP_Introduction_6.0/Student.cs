@@ -7,7 +7,7 @@ namespace OOP_Introduction
         public string studentNumber;
         public Person Advisor;
 
-        /// <summary>
+        /// <summary> Testing
         /// Default constructor attempt 1
         /// </summary>
         public Student()
